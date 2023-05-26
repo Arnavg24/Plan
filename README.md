@@ -1,5 +1,4 @@
 # Plan
-# Plan
 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/dbe9827b-eb3b-48ce-a661-5b58be3c77c2/deploy-status)](https://app.netlify.com/sites/epic-feynman-0d2137/deploys)
